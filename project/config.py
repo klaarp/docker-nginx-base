@@ -1,0 +1,4 @@
+import os
+
+WTF_CSRF_ENABLED = True
+SECRET_KEY = 'FLASK_FORM_KEY'

@@ -1,0 +1,9 @@
+Flask
+gunicorn
+gevent
+twilio
+pandas
+bs4
+html5lib
+pyodbc
+sqlalchemy
